@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\D066307\Documents\KIT\tango-examples-java-master\java_augmented_reality_example\app\build\intermediates\exploded-aar\tango_support_java_lib\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d73aeade164c485edae6c9d02284041ff293be51">
+        <dex dex="C:\Users\D066307\Documents\KIT\tango-examples-java-master\java_augmented_reality_example\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-tango_support_java_lib_0d96f0bfb8ca3da9c6dc90a6efe2beb790cb6dca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D066307\Documents\KIT\tango-examples-java-master\App_Luisa\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0ae7fc5aa2fb761af5fa62ac6c63cfaf210582de">
+        <dex dex="C:\Users\D066307\Documents\KIT\tango-examples-java-master\App_Luisa\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_a6d8c9f4a1bc11a60d45f18c420867951b1335d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D066307\Documents\KIT\tango-examples-java-master\java_augmented_reality_example\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6939962101e7f68ebd2a5642874ee375a737c03c">
+        <dex dex="C:\Users\D066307\Documents\KIT\tango-examples-java-master\java_augmented_reality_example\app\build\intermediates\pre-dexed\debug\instant-run_ec595b994f15a8503d07a4b9bc626c3b667eb240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D066307\Documents\KIT\tango-examples-java-master\App_Luisa\app\build\intermediates\exploded-aar\App_Luisa\java_examples_utils\unspecified\jars\libs\tango_java_lib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="110a91058f63cce9941ca869bcf806b054ce49b6">
+        <dex dex="C:\Users\D066307\Documents\KIT\tango-examples-java-master\App_Luisa\app\build\intermediates\pre-dexed\debug\tango_java_lib_5c59a03aa3732f8981e27df65e932f6050bb88bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D066307\Documents\KIT\tango-examples-java-master\java_augmented_reality_example\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0bdd5b665b2607f4ffaa0614540629e16165cb99">
+        <dex dex="C:\Users\D066307\Documents\KIT\tango-examples-java-master\java_augmented_reality_example\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_60e8da531c3594f706bd88994e09984d1e79e99f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D066307\Documents\KIT\tango-examples-java-master\java_augmented_reality_example\app\build\intermediates\exploded-aar\org.rajawali3d\rajawali\1.0.325\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0a442f232c74f43aa6baed9a29cb13941bd10e6a">
+        <dex dex="C:\Users\D066307\Documents\KIT\tango-examples-java-master\java_augmented_reality_example\app\build\intermediates\pre-dexed\debug\org.rajawali3d-rajawali-1.0.325_37a121132ee2aac0d00bb230d51199ffbef79077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D066307\Documents\KIT\tango-examples-java-master\java_augmented_reality_example\app\build\intermediates\exploded-aar\java_augmented_reality_example\java_examples_utils\unspecified\jars\libs\tango_java_lib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="110a91058f63cce9941ca869bcf806b054ce49b6">
+        <dex dex="C:\Users\D066307\Documents\KIT\tango-examples-java-master\java_augmented_reality_example\app\build\intermediates\pre-dexed\debug\tango_java_lib_c07fa1763dccfa9357c0ed9b608b6e39994d33ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D066307\Documents\KIT\tango-examples-java-master\App_Luisa\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="6e6a108b3c7e23d6dfb5c617b3b36635ab3de78f">
+        <dex dex="C:\Users\D066307\Documents\KIT\tango-examples-java-master\App_Luisa\app\build\intermediates\pre-dexed\debug\instant-run_29a7df0d16adcfaf1f695fa5593c4cee97c40029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D066307\Documents\KIT\tango-examples-java-master\App_Luisa\app\build\intermediates\exploded-aar\org.rajawali3d\rajawali\1.0.325\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0a442f232c74f43aa6baed9a29cb13941bd10e6a">
+        <dex dex="C:\Users\D066307\Documents\KIT\tango-examples-java-master\App_Luisa\app\build\intermediates\pre-dexed\debug\org.rajawali3d-rajawali-1.0.325_fca4324214cb663f1cf09f4cd5f7147535793863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\D066307\Documents\KIT\tango-examples-java-master\App_Luisa\app\build\intermediates\exploded-aar\tango_support_java_lib\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d73aeade164c485edae6c9d02284041ff293be51">
+        <dex dex="C:\Users\D066307\Documents\KIT\tango-examples-java-master\App_Luisa\app\build\intermediates\pre-dexed\debug\intermediates-exploded-aar-tango_support_java_lib_81e960452632c75d908af75b0b4fd237ca7b6703.jar" />
+    </item>
+
+</items>
